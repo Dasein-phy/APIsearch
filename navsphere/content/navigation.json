@@ -81,6 +81,14 @@
           "description": "访问 tiantianai.pro",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=tiantianai.pro",
           "enabled": true
+        },
+        {
+          "id": "site_1765181403328_6s12jdvrj",
+          "title": "千岛",
+          "href": "https://api2.qiandao.mom/",
+          "description": "访问 api2.qiandao.mom",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=api2.qiandao.mom",
+          "enabled": true
         }
       ],
       "subCategories": []
