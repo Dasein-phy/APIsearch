@@ -73,6 +73,14 @@
           "description": "访问 ai.xmdbd.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai.xmdbd.com",
           "enabled": true
+        },
+        {
+          "id": "site_1765181299780_gbncxcpdq",
+          "title": "Tian Tian API",
+          "href": "https://tiantianai.pro/",
+          "description": "访问 tiantianai.pro",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tiantianai.pro",
+          "enabled": true
         }
       ],
       "subCategories": []
