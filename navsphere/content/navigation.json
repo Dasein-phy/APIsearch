@@ -122,6 +122,70 @@
           "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
           "icon": "https://qlbs.api.chengminya.cn/logo.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765184574505_ugmwnd8p4",
+          "title": "New API",
+          "href": "https://www.msuicode.com/register?aff=0QaH",
+          "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+          "icon": "https://www.msuicode.com/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184576699_c54v61eyf",
+          "title": "New API",
+          "href": "https://juziapi.xin/register?aff=jGUG",
+          "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+          "icon": "https://juziapi.xin/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184578905_egb6j83k3",
+          "title": "Linkapi",
+          "href": "https://linkapi.cc/register?aff=49J4",
+          "description": "访问 linkapi.cc",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=linkapi.cc",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184580637_o13nv4d84",
+          "title": "New API",
+          "href": "https://ai.dianhuomao.shop/register?aff=5tWt",
+          "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+          "icon": "https://ai.dianhuomao.shop/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184580961_fzeznf530",
+          "title": "New API",
+          "href": "https://bl.api.chengminya.cn/register?aff=R37j",
+          "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+          "icon": "https://bl.api.chengminya.cn/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184582868_1q99yzhs3",
+          "title": "New API",
+          "href": "https://api.lyouth.de/register?aff=4vX6",
+          "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+          "icon": "https://api.lyouth.de/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184584740_trgubx4dd",
+          "title": "free.learn-ai.top",
+          "href": "https://free.learn-ai.top/register?aff=VJDE",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=free.learn-ai.top",
+          "enabled": true
+        },
+        {
+          "id": "site_1765184586726_kw7h6kasp",
+          "title": "New API",
+          "href": "https://oneai.cc/register?aff=GSe5",
+          "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+          "icon": "https://oneai.cc/logo.png",
+          "enabled": true
         }
       ],
       "subCategories": []
