@@ -42,6 +42,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1765180918134",
+      "title": "收费站",
+      "icon": "Link",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
