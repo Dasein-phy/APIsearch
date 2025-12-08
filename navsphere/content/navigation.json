@@ -1,0 +1,13 @@
+{
+  "navigationItems": [
+    {
+      "id": "1765171178718",
+      "title": "公益站",
+      "icon": "Coffee",
+      "description": "公益",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
+}
