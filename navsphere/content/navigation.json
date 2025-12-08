@@ -189,6 +189,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1765185068032",
+      "title": "第三方API站点",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
