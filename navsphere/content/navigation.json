@@ -205,6 +205,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "cb13e1a0-8d84-47ed-b226-aef369c3e322",
+          "title": "半公益站",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
