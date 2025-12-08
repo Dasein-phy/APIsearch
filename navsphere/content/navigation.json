@@ -6,7 +6,16 @@
       "icon": "Coffee",
       "description": "公益",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1765182779974_5lii6sibe",
+          "title": "喵哥 API 公益站",
+          "href": "https://992236.xyz/login",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=992236.xyz",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
