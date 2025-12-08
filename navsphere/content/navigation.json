@@ -213,6 +213,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6910c27f-7201-4d28-94a1-38a8afc0d592",
+          "title": "收费站",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
