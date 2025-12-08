@@ -15,7 +15,26 @@
       "icon": "Zap",
       "description": "半公益",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1765171227149",
+          "title": "哈基米半公益站",
+          "href": "https://api.gemai.cc/",
+          "description": "访问 api.gemai.cc",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=api.gemai.cc",
+          "enabled": true,
+          "models": [
+            {
+              "name": "gemini-3-pro",
+              "price": 0.003,
+              "currency": "CNY",
+              "lastUpdated": "2025-12-08",
+              "note": ""
+            }
+          ],
+          "pricingLastUpdated": "2025-12-08"
+        }
+      ],
       "subCategories": []
     }
   ]
