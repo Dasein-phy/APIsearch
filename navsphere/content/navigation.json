@@ -197,7 +197,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d8690295-73c7-4b2e-a647-991096300f4e",
+          "title": "公益站",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
