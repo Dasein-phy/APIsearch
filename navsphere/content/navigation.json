@@ -65,6 +65,14 @@
           "description": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
           "icon": "https://api.yousebaby.com/logo.png",
           "enabled": true
+        },
+        {
+          "id": "site_1765181221250_fkmo3sl5m",
+          "title": "猫猫屋",
+          "href": "https://ai.xmdbd.com/",
+          "description": "访问 ai.xmdbd.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai.xmdbd.com",
+          "enabled": true
         }
       ],
       "subCategories": []
