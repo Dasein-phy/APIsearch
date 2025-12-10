@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1765171207905",
+      "title": "半公益站",
+      "icon": "Zap",
+      "description": "半公益",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1765180918134",
       "title": "收费站",
       "icon": "Link",
