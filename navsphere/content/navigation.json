@@ -158,6 +158,14 @@
               "description": "每日签到可以签到获取额度，暂定每日200额度，需要额度低于10才可签到。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=sunlea.de",
               "enabled": true
+            },
+            {
+              "id": "site_1765336372839_dxv7bwl1t",
+              "title": "小鸡公益签到站",
+              "href": "https://dash.ckff.netlib.re/?aff=1cnL",
+              "description": "Discord注册，小鸡公益，这是签到站，签到送一百额度，有小克和哈基米3",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.ckff.netlib.re",
+              "enabled": true
             }
           ]
         },
