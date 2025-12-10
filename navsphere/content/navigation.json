@@ -134,6 +134,14 @@
               "description": "只支持Linux，有小克",
               "icon": "https://api.nlvps.hidns.co/logo.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765335754520_zp2wueif4",
+              "title": "learn-ai 公益站",
+              "href": "https://free.learn-ai.top/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=free.learn-ai.top",
+              "enabled": true
             }
           ]
         },
