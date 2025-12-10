@@ -396,6 +396,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1765341330991",
+      "title": "SillyTavern相关",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
