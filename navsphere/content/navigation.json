@@ -142,6 +142,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=free.learn-ai.top",
               "enabled": true
+            },
+            {
+              "id": "site_1765336084096_wl6vfywzb",
+              "title": "小新 API",
+              "href": "https://api.xiaoxinapi.com/",
+              "description": "访问 api.xiaoxinapi.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=api.xiaoxinapi.com",
+              "enabled": true
             }
           ]
         },
