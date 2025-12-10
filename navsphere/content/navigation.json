@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1765171178718",
-      "title": "公益站",
-      "icon": "Coffee",
-      "description": "公益",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1765171207905",
       "title": "半公益站",
       "icon": "Zap",
