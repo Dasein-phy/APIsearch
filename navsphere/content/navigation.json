@@ -71,6 +71,14 @@
               "description": "",
               "icon": "/assets/favicon_1765175211672.jpeg",
               "enabled": true
+            },
+            {
+              "id": "site_1765334439804_jqggl95ny",
+              "title": "土豆",
+              "href": "https://xd.tudou.chat/register?aff=GmM7",
+              "description": "土豆进群领取500额度，q群1017015468",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xd.tudou.chat",
+              "enabled": true
             }
           ]
         },
