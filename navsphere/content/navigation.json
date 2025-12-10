@@ -150,6 +150,14 @@
               "description": "访问 api.xiaoxinapi.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=api.xiaoxinapi.com",
               "enabled": true
+            },
+            {
+              "id": "site_1765336302244_ic5hszljc",
+              "title": "Soul 公益站",
+              "href": "https://sunlea.de/",
+              "description": "每日签到可以签到获取额度，暂定每日200额度，需要额度低于10才可签到。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sunlea.de",
+              "enabled": true
             }
           ]
         },
