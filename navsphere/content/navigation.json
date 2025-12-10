@@ -79,6 +79,14 @@
               "description": "土豆进群领取500额度，q群1017015468",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xd.tudou.chat",
               "enabled": true
+            },
+            {
+              "id": "site_1765334617171_slk2kdqpl",
+              "title": "藏雨阁 API",
+              "href": "http://www.guqinghan.icu/register?aff=3ceQ",
+              "description": "藏雨阁注册700额度，进群或类脑发送兑换码，q群1023557201",
+              "icon": "http://www.guqinghan.icu/panel/favicon.ico",
+              "enabled": true
             }
           ]
         },
