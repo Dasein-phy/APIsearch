@@ -86,6 +86,14 @@
               "description": "Discord 社区：https://discord.gg/4nCU23fB3d",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ar26710.online",
               "enabled": true
+            },
+            {
+              "id": "site_1765335214080_42a8k9gxv",
+              "title": "huan API",
+              "href": "https://ai.huan666.de/register?aff=eIPA",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai.huan666.de",
+              "enabled": true
             }
           ]
         },
