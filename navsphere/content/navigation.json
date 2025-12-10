@@ -183,6 +183,14 @@
               "description": "Discord注册，苏卡卡小克4公益，discord上领取密钥",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=gcli.ggchan.dev",
               "enabled": true
+            },
+            {
+              "id": "site_1765342245496_6z54buoyd",
+              "title": "uglycat2 丑猫",
+              "href": "https://api2.uglycat.cc/register?aff=5pkl",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=api2.uglycat.cc",
+              "enabled": true
             }
           ]
         },
