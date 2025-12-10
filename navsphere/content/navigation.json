@@ -118,6 +118,14 @@
               "description": "只支持Linux登录，有小克，每周六注册",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=b4u.qzz.io",
               "enabled": true
+            },
+            {
+              "id": "site_1765335609588_jvqxjqv3c",
+              "title": "翰林文苑 hlwy API",
+              "href": "https://aiapi.hlwy2025.me/register?aff=qJHL",
+              "description": "只支持Linux，有小克，额度在Linux站抽奖获取",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=aiapi.hlwy2025.me",
+              "enabled": true
             }
           ]
         },
