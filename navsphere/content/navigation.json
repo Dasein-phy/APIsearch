@@ -46,6 +46,14 @@
               "description": "用一次倒扣一额度，永远用不完，q群1051970760，群精华有gcp分组，注册只能网易邮箱",
               "icon": "https://ff.sillydream.top/logo.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765334871418_22kh9e2rj",
+              "title": "429公益站",
+              "href": "https://api.pvqq.chat/login",
+              "description": "目前关闭注册",
+              "icon": "https://api.pvqq.chat/logo.png",
+              "enabled": true
             }
           ]
         },
