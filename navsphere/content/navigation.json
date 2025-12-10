@@ -30,6 +30,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=free.learn-ai.top",
               "enabled": true
+            },
+            {
+              "id": "site_1765334396570_fl6ztjpab",
+              "title": "丑猫",
+              "href": "http://api2.uglycat.cc/register?aff=5pkl",
+              "description": "丑猫每日可签到获取额度",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=api2.uglycat.cc",
+              "enabled": true
             }
           ]
         },
