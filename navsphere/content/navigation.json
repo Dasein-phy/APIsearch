@@ -126,6 +126,14 @@
               "description": "只支持Linux，有小克，额度在Linux站抽奖获取",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=aiapi.hlwy2025.me",
               "enabled": true
+            },
+            {
+              "id": "site_1765335669994_gnnrwdsl0",
+              "title": "鸢北的公益站",
+              "href": "https://api.nlvps.hidns.co/register?aff=lhWT",
+              "description": "只支持Linux，有小克",
+              "icon": "https://api.nlvps.hidns.co/logo.png",
+              "enabled": true
             }
           ]
         },
