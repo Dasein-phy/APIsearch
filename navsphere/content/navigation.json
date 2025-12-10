@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1765341330991",
+      "title": "SillyTavern相关",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1765185068032",
       "title": "第三方API站点",
       "icon": "Folder",
@@ -396,15 +405,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1765341330991",
-      "title": "SillyTavern相关",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
