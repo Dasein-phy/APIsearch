@@ -87,6 +87,14 @@
               "description": "藏雨阁注册700额度，进群或类脑发送兑换码，q群1023557201",
               "icon": "http://www.guqinghan.icu/panel/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1765334650802_u244vf12t",
+              "title": "香草",
+              "href": "https://ai.xiangcao.de/register?aff=9XZn",
+              "description": "香草，注册送二十额度（不是公益，能注册）",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ai.xiangcao.de",
+              "enabled": true
             }
           ]
         },
