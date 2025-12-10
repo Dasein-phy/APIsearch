@@ -38,6 +38,14 @@
               "description": "丑猫每日可签到获取额度",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=api2.uglycat.cc",
               "enabled": true
+            },
+            {
+              "id": "site_1765334695361_m716ve057",
+              "title": "Silly Dream 公益站",
+              "href": "https://ff.sillydream.top/register?aff=cyLL",
+              "description": "用一次倒扣一额度，永远用不完，q群1051970760，群精华有gcp分组，注册只能网易邮箱",
+              "icon": "https://ff.sillydream.top/logo.png",
+              "enabled": true
             }
           ]
         },
