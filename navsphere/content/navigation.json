@@ -110,6 +110,14 @@
               "description": "访问 api.lanapi.top",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=api.lanapi.top",
               "enabled": true
+            },
+            {
+              "id": "site_1765335547034_6sgjrcyoh",
+              "title": "B4U公益站",
+              "href": "https://b4u.qzz.io/",
+              "description": "只支持Linux登录，有小克，每周六注册",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=b4u.qzz.io",
+              "enabled": true
             }
           ]
         },
