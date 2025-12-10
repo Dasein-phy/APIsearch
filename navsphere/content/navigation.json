@@ -166,6 +166,14 @@
               "description": "Discord注册，小鸡公益，这是签到站，签到送一百额度，有小克和哈基米3",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=dash.ckff.netlib.re",
               "enabled": true
+            },
+            {
+              "id": "site_1765340753777_rhmlza75t",
+              "title": "GG公益站",
+              "href": "https://gcli.ggchan.dev/",
+              "description": "Discord注册，苏卡卡小克4公益，discord上领取密钥",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=gcli.ggchan.dev",
+              "enabled": true
             }
           ]
         },
