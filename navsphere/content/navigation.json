@@ -102,6 +102,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=anyrouter.top",
               "enabled": true
+            },
+            {
+              "id": "site_1765335490853_5aivwliut",
+              "title": "小松公益站",
+              "href": "https://api.lanapi.top/register?aff=fcNT",
+              "description": "访问 api.lanapi.top",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=api.lanapi.top",
+              "enabled": true
             }
           ]
         },
